@@ -1,0 +1,5 @@
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicExtensionMethods/BasicExtensionMethods/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicExtensionMethods/BasicExtensionMethods/bin/Debug/BasicExtensionMethods.exe.mdb
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicExtensionMethods/BasicExtensionMethods/bin/Debug/BasicExtensionMethods.exe
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicExtensionMethods/BasicExtensionMethods/obj/x86/Debug/BasicExtensionMethods.exe
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicExtensionMethods/BasicExtensionMethods/obj/x86/Debug/BasicExtensionMethods.exe.mdb
