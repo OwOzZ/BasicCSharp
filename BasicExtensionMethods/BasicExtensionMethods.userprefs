@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="BasicExtensionMethods/BasicExtensionMethods.csproj" />
+﻿<Properties StartupItem="BasicExtensionMethods/BasicExtensionMethods.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicExtensionMethods/Program.cs">
+    <Files>
+      <File FileName="BasicExtensionMethods/Program.cs" Line="34" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicPartialKeyword/BasicPartialKeyword/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicPartialKeyword/BasicPartialKeyword/bin/Debug/BasicPartialKeyword.exe.mdb
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicPartialKeyword/BasicPartialKeyword/bin/Debug/BasicPartialKeyword.exe
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicPartialKeyword/BasicPartialKeyword/obj/x86/Debug/BasicPartialKeyword.exe
+/Users/young/Documents/Projects/C#/BasicCSharp/BasicPartialKeyword/BasicPartialKeyword/obj/x86/Debug/BasicPartialKeyword.exe.mdb
