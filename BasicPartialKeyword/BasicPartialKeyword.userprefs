@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="BasicPartialKeyword/BasicPartialKeyword.csproj" />
+﻿<Properties StartupItem="BasicPartialKeyword/BasicPartialKeyword.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicPartialKeyword/Program.cs">
+    <Files>
+      <File FileName="BasicPartialKeyword/Program.cs" Line="59" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
