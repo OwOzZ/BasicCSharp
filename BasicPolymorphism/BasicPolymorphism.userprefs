@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="BasicPolymorphism/BasicPolymorphism.csproj" />
+﻿<Properties StartupItem="BasicPolymorphism/BasicPolymorphism.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicPolymorphism/Program.cs">
+    <Files>
+      <File FileName="BasicPolymorphism/Program.cs" Line="29" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

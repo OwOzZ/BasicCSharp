@@ -15,6 +15,8 @@ namespace BasicPolymorphism
 			personList.Add (person1);
 			personList.Add (person2);
 
+			// This is a player class
+			// This is a student class
 			foreach (Person person in personList) 
 			{
 				Console.WriteLine (person.GetSummary ());
